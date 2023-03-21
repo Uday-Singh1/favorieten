@@ -1,3 +1,6 @@
 1. Pinguin
 2. Leeuw
 3. Kat
+1. Voetbal
+2. Basketbal
+3. Gamen
